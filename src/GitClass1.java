@@ -5,5 +5,6 @@ public class GitClass1
 	{
 		System.out.println("RBG technologies");
 		System.out.println("Selenium classes");
+		System.out.println("Selenium classes");
 	}
 }
